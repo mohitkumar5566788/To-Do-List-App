@@ -1,5 +1,3 @@
-Here is a *clean, professional GitHub README.md* for your *Python Tkinter To-Do List App*.
-You can directly paste this into your project’s README.md.
 
 ---
 
@@ -113,10 +111,3 @@ Feel free to open an *Issue* or submit a *Pull Request*.
 It helps others discover it and supports the project.
 
 ---
-
-If you want, I can:
-✅ Generate *image assets* for the README
-✅ Create a *GitHub repo folder structure*
-✅ Add a *LICENSE*, .gitignore, or commit messages
-
-Just tell me!
