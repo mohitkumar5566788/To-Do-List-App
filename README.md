@@ -60,7 +60,7 @@ This project helps users manage daily tasks with options to *add, **delete, and 
 ### ⿡ Clone this repository:
 
 bash
-git clone https://github.com/your-username/todo-list-tkinter.git
+git clone https://github.com/mohitkumar5566788/To-Do-List-App
 
 
 ### ⿢ Navigate to the project folder:
